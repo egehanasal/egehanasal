@@ -6,3 +6,20 @@
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 ![Egehan's github stats](https://github-readme-stats.vercel.app/api?username=egehanasal)
+
+<a href="https://github.com/egehanasal" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egehanasal&show_icons=true&theme=material-palenight"/>
+</a>
+
+<a href="https://github.com/egehanasal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egehanasal&langs_count=10&layout=compact&theme=material-palenight"/>
+</a>
+
+<!--
+<a href = "https://github.com/egehanasal">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=UniversityManagementSystem&theme=tokyonight">
+</a>
+
+<a href = "https://github.com/egehanasal">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=Artificial-Intelligence&theme=tokyonight">
+</a>
