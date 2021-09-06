@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning **Tensorflow, Keras**
 
 - 📫 How to reach me **egehanasal.se@gmail.com**
+
+[![Egehan's github stats](https://github-readme-stats.vercel.app/api?username=egehanasal)]
