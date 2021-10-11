@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently studying **Deep Learning** and looking forward to work on it
 
-- 🌱 I’m currently learning **Tensorflow, Keras**
+- 🌱 I’m currently learning **NLP, Natural Language Processing**
 
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
