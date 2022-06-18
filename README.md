@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Egehan</h1>
 <h3 align="center">Undergraduate Computer Science Student and Teaching Assistant</h3>
 
-- 🔭 I'm currently studying **Deep Learning** and looking forward to work on it
-
-- 🌱 I’m currently learning **NLP, Natural Language Processing**
-
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 <a href="https://github.com/egehanasal" >
