@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egehan</h1>
 <h3 align="center">Undergraduate Computer Science Student and Teaching Assistant</h3>
 
+- 📜 Interested in Mobile Development and Machine Learning 
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 <a href="https://github.com/egehanasal" >
