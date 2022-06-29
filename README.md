@@ -14,9 +14,9 @@
 
 <!--
 <a href = "https://github.com/egehanasal">
-   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=UniversityManagementSystem&theme=tokyonight">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=UniversityManagementSystem&theme=dark">
 </a>
 
 <a href = "https://github.com/egehanasal">
-   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=Artificial-Intelligence&theme=tokyonight">
+   <img aling="center" src="https://github-readme-stats.vercel.app/api/pin/?username=egehanasal&repo=Artificial-Intelligence&theme=dark">
 </a>
