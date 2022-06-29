@@ -5,11 +5,11 @@
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 <a href="https://github.com/egehanasal" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egehanasal&show_icons=true&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=egehanasal&show_icons=true&theme=dark"/>
 </a>
 
 <a href="https://github.com/egehanasal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egehanasal&langs_count=10&layout=compact&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egehanasal&langs_count=10&layout=compact&theme=dark"/>
 </a>
 
 <!--
