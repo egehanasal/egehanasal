@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Egehan</h1>
+<h1 align="center">
+  <a href="https://github.com/egehanasal">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Egehan+%F0%9F%98%8A">
+  </a>
+</h1>
+<h5 align="center">
+
 <h3 align="center">Undergraduate Computer Science Student and Teaching Assistant</h3>
 
 - 📜 Interested in Mobile Development and Machine Learning 
