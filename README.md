@@ -5,7 +5,7 @@
 </h1>
 <h5 align="center">
 
-<h3 align="center">Undergraduate Computer Science Student and Teaching Assistant</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 - 📜 Interested in Mobile Development and Machine Learning 
 - 📫 How to reach me **egehanasal.se@gmail.com**
