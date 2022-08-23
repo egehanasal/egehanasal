@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/egehanasal">
-    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Egehan">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hi%2C+%F0%9F%91%8B+,I'm+Egehan">
   </a>
 </h1>
 <h5 align="center">
