@@ -7,7 +7,7 @@
 
 <h3 align="center">Junior Software Engineer</h3>
 
-- 📜 Interested in Backend Development and Software Architecture 
+- 📜 Interested in Software Architecture 
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 <a href="https://github.com/egehanasal" >
