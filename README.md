@@ -5,7 +5,7 @@
 </h1>
 <h5 align="center">
 
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Developer</h3>
 
 - 📜 Interested in Software Architecture 
 - 📫 How to reach me **egehanasal.se@gmail.com**
