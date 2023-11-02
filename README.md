@@ -5,9 +5,9 @@
 </h1>
 <h5 align="center">
 
-<h3 align="center">Developer</h3>
+<h3 align="center">Software Developer</h3>
 
-- 📜 Interested in Software Architecture 
+- 📜 Interested in Model Driven Engineering 
 - 📫 How to reach me **egehanasal.se@gmail.com**
 
 <a href="https://github.com/egehanasal" >
