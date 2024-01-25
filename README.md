@@ -8,4 +8,4 @@
 <h3 align="center">Software Developer</h3>
 
 - 📜 Interested in Model Driven Engineering 
-- 📫 How to reach me **egehanasal.se@gmail.com**
+- 📫 How to reach me **egehanasal.dev@gmail.com**
