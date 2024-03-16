@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egehan</h1>
-<h3 align="center">Software Developer</h3> - 📫 How to reach me **egehanasal.dev@gmail.com** <p align="left"></p>
+<h3 align="center">Software Developer</h3> - 📫 How to reach me <b>egehanasal.dev@gmail.com</b> <p align="left"></p>
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
