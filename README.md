@@ -9,5 +9,3 @@ I also have research experience in software architecture and domain-driven desig
 **Tech Stack:** Java · Spring Boot · React · Microservices
 
 Connect with me on [LinkedIn](https://linkedin.com/in/egehanasal)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egehanasal&theme=github-dark-dimmed)](https://git.io/streak-stats)
