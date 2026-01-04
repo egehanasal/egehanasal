@@ -6,6 +6,4 @@ Beyond coding, I'm passionate about knowledge-sharing and collaboration. I've co
 
 I also have research experience in software architecture and domain-driven design, with a published paper on Decision Support System architectures.
 
-**Tech Stack:** Java · Spring Boot · Node.js · TypeScript · React · Microservices
-
 Connect with me on [LinkedIn](https://linkedin.com/in/egehanasal)
